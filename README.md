@@ -1,5 +1,4 @@
 # rs-ahk-scripts
-for osrs
 
 downlaod ahk from https://www.autohotkey.com/
 
