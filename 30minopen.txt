@@ -1,0 +1,6 @@
+SetTimer, OpenWebsite, 1800000 ; Calls OpenWebsite every 30 minutes.
+return
+
+OpenWebsite:
+Run, https://examplefunnywebsite.com
+return
