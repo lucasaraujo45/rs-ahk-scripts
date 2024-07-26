@@ -58,7 +58,7 @@ Loop, %MonitorCount%
 }
 
 SetTimer, Check, 250
-SetTimer, StopScript, -3000 ; Run for 3 seconds
+SetTimer, StopScript, -9000 ; Run for 3 seconds
 
 Return
 
